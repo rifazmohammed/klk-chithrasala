@@ -1,0 +1,30 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Chithrasala Art Gallery, Thiruvananthapuram
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_4DBAB960_4439_820B_41A0_871EF6935F80.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4DBADE7C_4439_9EFB_41D0_1408E0F63397.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4DBB10F0_4439_820B_419B_16504F9E20EA.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4DBB1C09_4439_821D_4178_68333718E38A.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4DBB37A5_4439_8E15_41A2_AE1CB09521C0.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4DBBC6EA_4439_8E1F_41C1_AF62BE4B9A31.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4DBE635A_4439_863F_41C3_7612EBBE0F2D.label = Chithrasala Art Gallery, Thiruvananthapuram
+panorama_4EB88551_4439_820D_41A5_1B8DAAD2FBC5.label = Chithrasala Art Gallery, Thiruvananthapuram
